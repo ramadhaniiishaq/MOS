@@ -1,0 +1,2 @@
+-menggunakan python 3.14
+-pastikan menginstal semua pip(ada di foto)
